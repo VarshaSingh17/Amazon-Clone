@@ -339,6 +339,7 @@ ul a{
         margin-bottom: 2rem;
     }
     .nav-cart{
+        font-size: 15px;
         position: absolute;
         top: 0;
         right: 0;
@@ -347,6 +348,10 @@ ul a{
     }
     .nav-address, .nav-sign, .nav-return{
         display: none;
+    }
+
+    .panel-ops, .panel-all{
+        font-size: 13px;
     }
     .panel i{
         display: none;
@@ -377,6 +382,10 @@ ul a{
         display: none;
     }
 
+    .foot-panel1{
+        font-size: 13px;
+    }
+
     .foot-panel2{
         height: 350px;
 
@@ -398,6 +407,9 @@ ul a{
 
     .nav-search{
         width: 350px;
+    }
+    .nav-cart {
+        font-size: 12px;
     }
 
     .foot-panel1{
