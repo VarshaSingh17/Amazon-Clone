@@ -389,6 +389,9 @@ ul a{
     }
 }
 @media (max-width: 450px){
+    .panel-ops, .panel-all{
+        font-size: 11px;
+    }
     .box-content{
         font-size: 11px;
     }
@@ -397,6 +400,9 @@ ul a{
         width: 350px;
     }
 
+    .foot-panel1{
+        font-size: 13px;
+    }
     .foot-panel2{
         height: 400px;
     }
